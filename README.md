@@ -16,5 +16,6 @@ A C++ hostel management system using structured programming. Manages student rec
 2. Navigate to the project folder.
 3. Compile the code:
    ```bash
-   g++ hostel.cpp -o hostel
+   g++ Hostel.cpp -o Hostel
    ```
+
